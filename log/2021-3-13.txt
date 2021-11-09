@@ -1,0 +1,10 @@
+LOG FOR 2021-3-13
+[15:02:08 SUCCESS] lunch timing...
+[17:20:00 SUCCESS] lunch process
+[17:20:07 SUCCESS] path login
+[17:20:15 SUCCESS] select project <IBD_CM-Lark-V1.2.0>
+[17:20:16 SUCCESS] path finish
+[17:20:20 SUCCESS] oa login
+[17:20:25 SUCCESS] oa finish
+[17:20:33 SUCCESS] --- process accomplish ---
+[17:20:33 SUCCESS] shut down computer

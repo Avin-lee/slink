@@ -1,0 +1,5 @@
+LOG FOR 2021-3-31
+[15:40:26 SUCCESS] lunch timing...
+[18:00:10 SUCCESS] lunch process
+[18:00:43 FAIL] processing error in login path
+[Message] TimeoutError: waiting for selector `input#login_name` failed: timeout 30000ms exceeded

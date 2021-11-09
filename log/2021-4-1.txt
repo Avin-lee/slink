@@ -1,0 +1,16 @@
+LOG FOR 2021-4-1
+
+[19:22:18 SUCCESS] lunch timing...
+
+... ...
+
+[19:23:10 SUCCESS] lunch process
+[19:23:13 SUCCESS] path login success
+[19:23:22 SUCCESS] select project <IBD_CM-Lark-V1.2.0> success
+[19:23:23 SUCCESS] work-time input success
+[19:23:24 SUCCESS] work-detail input success
+[19:23:24 SUCCESS] path finished
+[19:23:28 SUCCESS] oa login success
+[19:23:33 FAIL] processing error in login oa
+[Message] Error: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+[19:23:33 SUCCESS] all process finished

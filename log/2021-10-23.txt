@@ -1,0 +1,13 @@
+LOG FOR 2021-10-23:
+
+[16:24:38] [SUCCESS] start timing
+[16:25:00] [SUCCESS] process start
+[16:25:06] [SUCCESS][PATH] path login success
+[16:25:11] [SUCCESS][PATH] select project <IBD_JD-Custom-1.2.0> success
+[16:25:11] [SUCCESS][PATH] work-time input success <4 h>
+[16:25:12] [SUCCESS][PATH] work-detail input success
+[16:25:12] [SUCCESS][PATH] path finished
+[16:25:18] [SUCCESS][OA] oa login success
+[16:27:00] [FAIL][OA] OA can not sign out, most like your work time less than half day
+[16:27:00] [SUCCESS] process finished[16:27:00] [ERROR] processing error
+[Message] Error: Protocol error (Input.dispatchMouseEvent): Target closed.

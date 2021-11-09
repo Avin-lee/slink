@@ -1,0 +1,15 @@
+LOG FOR 2021-8-10:
+
+[19:51:53] [SUCCESS] lunch timer...
+
+... program is running ...
+
+[20:30:30] [SUCCESS] process start
+[20:30:38] [SUCCESS][PATH] path login success
+[20:30:42] [SUCCESS][PATH] select project <IBD_JD-Custom-1.2.0> success
+[20:30:43] [SUCCESS][PATH] work-time input success <9.7 h>
+[20:30:43] [SUCCESS][PATH] work-detail input success
+[20:30:43] [SUCCESS][PATH] path finished
+[20:30:50] [SUCCESS][OA] oa login success
+[20:30:50] [SUCCESS][OA] oa finished
+[20:30:50] [SUCCESS] shut down computer success

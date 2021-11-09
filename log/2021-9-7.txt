@@ -1,0 +1,14 @@
+LOG FOR 2021-9-7:
+
+[18:03:21] [SUCCESS] start timing
+[20:30:10] [SUCCESS] process start
+[20:30:19] [SUCCESS][PATH] path login success
+[20:30:23] [SUCCESS][PATH] select project <IBD_JD-Custom-1.2.0> success
+[20:30:24] [SUCCESS][PATH] work-time input success <9.6 h>
+[20:30:24] [SUCCESS][PATH] work-detail input success
+[20:30:24] [SUCCESS][PATH] path finished
+[20:30:31] [SUCCESS][OA] oa login success
+[20:30:33] [SUCCESS][OA] oa sign out success
+[20:30:33] [SUCCESS][OA] oa finished
+[20:30:33] [SUCCESS] shut down computer success
+[20:30:33] [SUCCESS] process finished

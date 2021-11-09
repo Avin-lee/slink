@@ -1,0 +1,11 @@
+LOG FOR 2021-7-1
+
+[20:25:36 SUCCESS] lunch timing...
+
+... ...
+
+[20:30:15 SUCCESS] lunch process
+[20:30:19 SUCCESS] path login success
+[20:30:29 FAIL] your project name is not include in path,please check your <config.js> file carefully
+[20:30:29 FAIL] processing error in login path
+[Message] Error: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.

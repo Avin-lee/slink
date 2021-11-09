@@ -1,0 +1,14 @@
+LOG FOR 2021-6-5
+
+[14:20:56 SUCCESS] lunch timing...
+
+... ...
+
+[17:20:01 SUCCESS] lunch process
+[17:20:05 SUCCESS] path login success
+[17:20:15 FAIL] your project name is not include in path,please check your <config.js> file carefully
+[17:20:15 FAIL] processing error in login path
+[Message] Error: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+[17:20:01 SUCCESS] lunch process
+[17:20:31 FAIL] processing error in login path
+[Message] TimeoutError: waiting for selector `input#login_name` failed: timeout 30000ms exceeded

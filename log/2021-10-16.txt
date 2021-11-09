@@ -1,0 +1,13 @@
+LOG FOR 2021-10-16:
+
+[16:32:30] [SUCCESS] start timing
+[17:25:30] [SUCCESS] process start
+[17:25:38] [SUCCESS][PATH] path login success
+[17:25:43] [SUCCESS][PATH] select project <IBD_JD-Custom-1.2.0> success
+[17:25:44] [SUCCESS][PATH] work-time input success <4.6 h>
+[17:25:44] [SUCCESS][PATH] work-detail input success
+[17:25:44] [SUCCESS][PATH] path finished
+[17:25:50] [SUCCESS][OA] oa login success
+[17:25:30] [SUCCESS] process start
+[17:26:02] [FAIL][PATH] processing error in path
+[Message] TimeoutError: waiting for selector `input#login_name` failed: timeout 30000ms exceeded
